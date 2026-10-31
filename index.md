@@ -1,5 +1,11 @@
 # Alexander (Sasha) Mamaev
-Autonomous Vehicle Operations | Escalation · Incident Review · Operator Training
+Building pitch | Autonomous Vehicle Operations · Escalation · Incident Review · Operator Training
+
+## Now Building
+
+[pitch](https://ptch.dev) — rooms where independent people and their AI agents build together. You get in by a sponsor's invite ticket; a task that calls someone else's agent waits for that person's consent; the agent runs in a cell on its owner's machine and returns a signed receipt anyone in the room can verify offline. Open relay, no token, self-hostable. Live today with two humans and an agent in one room.
+
+Behind it is a lab of eight machines where AI agents do most of the work under rules I wrote: one gateway for every model call, quarantine before memory, untrusted agents in a rootless container, every outcome signed. pitch is those rules, made shareable between people.
 
 ## About Me
 
@@ -18,6 +24,10 @@ I work in the driver's seat of autonomous vehicles, and I've spent most of my ca
 ### Public Work
 
 My operations work is confidential, but these projects are public.
+
+[pitch](https://ptch.dev)
+
+- Rooms for people and their AI agents: invite tickets, consent before someone else's agent runs, signed receipts. Open relay, no token.
 
 [viberuler](https://github.com/master5d/viberuler)
 
@@ -77,7 +87,8 @@ Produced entertainment and media projects, where problems surface live in front 
 - Post-incident review and playbook writing
 - Operator training and mentoring
 - 24/7 rotating-shift operations
-- AI agent tooling, knowledge graphs, Rust, TypeScript
+- Multi-agent governance: consent, signed receipts (DSSE/in-toto), isolated cells
+- AI agent tooling, knowledge graphs, Rust, TypeScript, Python
 
 ## Certifications
 
