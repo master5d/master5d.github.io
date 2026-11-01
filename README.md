@@ -11,6 +11,18 @@ Behind it is a lab of eight machines where AI agents do most of the work under r
 
 I work in the driver's seat of autonomous vehicles, and I've spent most of my career staying calm and useful while things go wrong: more than a decade of professional passenger driving, thirteen years as a coach, and now AV operations on rotating shifts. Outside of work I build software tools with a strict rule: every claim links back to its source. I'm looking for operations roles in autonomous vehicles, including escalation and incident response, operator training, and safety or quality operations. I'm open to any location and ready to relocate.
 
+## Neurodivergent Superpowers
+
+I'm neurodivergent. Over the years I've learned which parts of my wiring are strengths, and I build my work around them.
+
+- **Pattern reading and plain honesty.** I notice when something is slightly off, and I name it. I don't flatter, and I welcome directness back.
+- **Deep focus.** When a problem grabs me, I follow it end to end, from the smallest detail to the whole system.
+- **Cross-domain thinking.** I connect ideas across fields, which makes systems design and research synthesis a natural fit.
+- **Fast learning.** I get deep into a new field quickly. Coaching, passenger transport, autonomous vehicles and my own AI lab are what that looks like over one career.
+- **Parallel tracking.** I keep several threads running at once: the task, the people around it, and the system behind them.
+- **Cognitive empathy.** I reason carefully about what other people think and need, which shaped thirteen years of coaching.
+- **Routine as fuel.** A steady daily routine keeps me regulated, so consistency is where I do my best work.
+
 ## Contact
 
 [Email](mailto:sasha@mamaev.coach)
