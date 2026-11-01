@@ -49,27 +49,23 @@ My operations work is confidential, but these projects are public.
 
 - Offline, privacy-first bilingual (English/Russian) speech-to-text for desktop, built in Rust with GPU-accelerated Whisper.
 
-[sovern-mindmap](https://github.com/master5d/sovern-mindmap)
-
-- A visual planning tool (mind map, priority matrix, timeline, Kanban) with a built-in server that AI agents can use directly.
-
 [claude-design-skills](https://github.com/master5d/claude-design-skills)
 
 - Design-focused skills for Claude Code: UI/UX, typography, motion.
 
 ## Work Experience
 
-### Autonomous Vehicle Operator (L2) | Transdev | Mar 2026 - Present
+### Autonomous Vehicle Operator (L2) | Transdev (Waymo program) | Mar 2026 - Present
 
-Operate autonomous vehicles in autonomous mode, with responsibility for real-time safety decisions. 500+ operational hours without a safety incident.
+Operate autonomous vehicles in autonomous mode, with responsibility for real-time safety decisions. 1,000+ hours on the Waymo program without a safety incident.
 
-Write detailed edge-case and vehicle-behavior reports for engineering teams, and present the same feedback in debriefs.
+Give verbal ride debriefs every day as part of the operator role.
 
 Diagnose in-vehicle issues under established procedures and escalate through Tech Ops when the issue goes beyond the vehicle.
 
 Work rotating shifts, including early mornings, evenings, overnights and weekends, plus multi-week travel assignments. Mentor newer operators on diagnostics, procedure and staying composed on shift.
 
-### Founder & Operator, Independent Mobility Operation | Self-employed | 2014 - 2026
+### Founder & Operator, Independent Mobility Operation | Self-employed | 2015 - 2026
 
 Ran a one-person passenger transport business measured every day against platform metrics: 17,740 professional trips (Uber 9,005, Lyft 8,735), Lyft 5.0 Platinum and Uber 5-star All Star.
 
@@ -85,22 +81,20 @@ Completed formal training in trauma-informed clinical methods: EMDR (400 hrs), E
 
 Built and delivered curricula for adult learners, and trained and mentored practitioners.
 
-### Operations Consultant and Producer | Various clients | 2007 - 2015
+### Online Marketing and Website Consultant | Entrepreneur clients | 2010 - 2015
 
-Advised early-stage companies on operations, process standardization and planning. Managed cross-functional teams and outside vendors across time zones.
-
-Produced entertainment and media projects, where problems surface live in front of an audience and get solved on the spot.
+Advised entrepreneurs on online marketing and website development.
 
 ## Skills
 
 - Real-time safety decisions and escalation
 - De-escalation under pressure
-- Incident and edge-case reporting for engineering teams
+- Verbal ride debriefs
 - Post-incident review and playbook writing
 - Operator training and mentoring
 - 24/7 rotating-shift operations
 - Multi-agent governance: consent, signed receipts (DSSE/in-toto), isolated cells
-- AI agent tooling, knowledge graphs, Rust, TypeScript, Python
+- AI agents, evals and guardrails, knowledge graphs, SQL, Python
 
 ## Certifications
 
@@ -116,5 +110,5 @@ Produced entertainment and media projects, where problems surface live in front 
 
 ## Languages
 
-- English (Native proficiency)
+- English (academic proficiency)
 - Russian (Native)
